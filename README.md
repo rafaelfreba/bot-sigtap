@@ -27,7 +27,11 @@ Abra o browser e na barra de navegação digite:
 
 Será exibida uma página inicial, clique no botão <strong>"start"</strong>.
 <br/>
+![Tela inicial](https://github.com/rafaelfreba/bot-sigtap/blob/main/img/Screenshot_1.png?raw=true)
+<br/>
 Os arquivos baixados e descomprimidos serão salvos em <strong> ..\bot-sigtap\files\ </strong>
+<br/>
+![Sucesso](https://github.com/rafaelfreba/bot-sigtap/blob/main/img/Screenshot_3.png?raw=true)
 
 ## Licença
 
