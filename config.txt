@@ -1,0 +1,1 @@
+URL_SIGTAP=http://sigtap.datasus.gov.br/tabela-unificada/app/download.jsp
